@@ -23,6 +23,7 @@ hs_err_pid*
 
 # Intellij config
 *.iml
+*.idea
 
 # Mac OS files
 *.DS_Store
